@@ -2,6 +2,6 @@ mod lib;
 
 
 fn main() {
-    lib::invoke2("1","2");
+    lib::invoke2("Alice","Bob");
     println!("Hello, world!");
 }
